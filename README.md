@@ -1,8 +1,8 @@
 ![DLaaS](media/banner.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/CIMPS19?style=for-the-badge) <br>
-![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/CIMPS19?style=for-the-badge) <br>
-![GitHub](https://img.shields.io/github/license/RodolfoFerro/CIMPS19?style=for-the-badge) <br>
+![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/CIMPS2019?style=for-the-badge) <br>
+![Code size](https://img.shields.io/github/languages/code-size/RodolfoFerro/CIMPS2019?style=for-the-badge) <br>
+![GitHub](https://img.shields.io/github/license/RodolfoFerro/CIMPS2019?style=for-the-badge) <br>
 [![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)](https://docs.google.com/presentation/d/e/2PACX-1vQu3NcX5En0X4fd65-jziWHvPmkU1tUNQurw3lAgfcEHNwtmsaLg4zrE5AKwkYb0cshCXM0p55Is47p/pub?start=false&loop=false&delayms=3000)
 
 ## Contenido del taller
